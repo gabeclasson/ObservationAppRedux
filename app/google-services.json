@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "84861760985",
+    "firebase_url": "https://observationappredux.firebaseio.com",
+    "project_id": "observationappredux",
+    "storage_bucket": "observationappredux.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84861760985:android:970d08a9767044817015c8",
+        "android_client_info": {
+          "package_name": "com.example.observationappredux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84861760985-us84oh58uvo09l7jqrlqquu4r4tbp0d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.observationappredux",
+            "certificate_hash": "6c0fa5040cfc01f4dfb7ddf3be3832a203afe9b0"
+          }
+        },
+        {
+          "client_id": "84861760985-um8bs9rm0t29svooc08bo7gsptceb90r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPBWfh1b7WNzEBQ896RPu4rqC-Rf9YqiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84861760985-um8bs9rm0t29svooc08bo7gsptceb90r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
